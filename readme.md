@@ -8,3 +8,4 @@ As stated above the main purpos is to provide simple exercises for git training 
 This is a simple web project 
 ## How to Contribute
 you can fork to your repo and make changes and later give push to our repository 
+fork this repo
