@@ -9,6 +9,7 @@
 
     <name>
     THANKS to all my students
+    please review this file 
 
 # TECHNOLOGY COLOPHON
 
