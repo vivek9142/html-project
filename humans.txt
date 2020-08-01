@@ -10,7 +10,7 @@
     <name>
     THANKS to all my students
     please review this file 
-
+updating title ofr tagging example
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
