@@ -10,3 +10,6 @@ This is a simple web project
 you can fork to your repo and make changes and later give push to our repository 
 fork this repo
 ............
+
+### Copyright
+2014 Git.Training.All rights reserved.
